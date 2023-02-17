@@ -112,7 +112,7 @@ class Parser:
 
 
         # write each entry on the table into a list
-        # do not save anythign we do not need (headers, lines and courrse headings)
+        # do not save anything we do not need (headers, lines and courrse headings)
         rawdata:list[str] = []
         for i in table1.find_all("td"):
             
@@ -142,13 +142,19 @@ class Parser:
             rawdata.append(txt)
 
         i = 0
+        sectionNotes = None
 
         while i < len(rawdata)-1:
             
-            frontNotes = False
-            # sometimes notes are in front of the course? (see 10439 in 201110)
+            # some class-wide notes that apply to all sections of a course are put in front of the course (see 10439 in 201110)
+            # this is a bad way to deal with them
             if len(rawdata[i]) > 2:
-                frontNotes = True
+                # 0 stores the subj and course id (ie CPSC 1150)
+                # 1 stores the note and edits it properly
+                sectionNotes = (
+                    f"{current_course.subject} {current_course.course}", 
+                    rawdata[i-1].replace(f"{current_course.subject} {current_course.course}", "", 1).strip()
+                    )
                 i += 1
                 
             # terrible way to fix off by one error (see 30566 in 201530)
@@ -169,8 +175,11 @@ class Parser:
                 rpt_limit = rawdata[i+11],
             )
             
-            if frontNotes:
-                current_course.notes = rawdata[i-1]
+            if sectionNotes != None:
+                if sectionNotes[0] == f"{current_course.subject} {current_course.course}":
+                    current_course.notes = sectionNotes[1]
+                else:
+                    sectionNotes = None
                             
             semester.addCourse(current_course)
             i += 12
