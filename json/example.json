@@ -1,0 +1,53 @@
+{
+    "datetime_retrieved" : "2023-02-16",
+    "year" : 2099,
+    "semester" : 10,
+    "courses_first_day" : "2023-01-15",
+    "courses_last_day" : "2023-03-06",
+
+    "courses" : [
+        {
+            "RP": " ", 
+            "seats": "5", 
+            "waitlist": "2", 
+            "crn": "11241", 
+            "subject": "ABST", 
+            "course": "1104", 
+            "section": "M01", 
+            "credits": "3.00", 
+            "title": "Canadian Aboriginal Policy", 
+            "add_fees": " ", 
+            "rpt_limit": "-", 
+            "notes": "ABST 1104 section M01 will also meet for 1 hour per week as a WWW component.", 
+            "schedule": [
+                {
+                    "type": "Lecture", 
+                    "days": "M------", 
+                    "time": "1430-1720", 
+                    "start": " ", 
+                    "end": " ", 
+                    "room": "A167", 
+                    "instructor": "Adolfina Miranda-Barrios"
+                }, 
+                {
+                    "type": "Lecture", 
+                    "days": "-------", 
+                    "time": "-", 
+                    "start": " ", 
+                    "end": " ", 
+                    "room": "WWW", 
+                    "instructor": "Adolfina Miranda-Barrios"
+                }, 
+                {
+                    "type": "Exam", 
+                    "days": "----F--", 
+                    "time": "0830-1025", 
+                    "start": "21-Apr-23", 
+                    "end": "21-Apr-23", 
+                    "room": " ", 
+                    "instructor": "Adolfina Miranda-Barrios"
+                }
+            ]
+        }
+    ]
+}
