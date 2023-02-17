@@ -15,16 +15,22 @@ class Semester:
         
     def addCourse(self, course:Course):
         self.courses.append(course)
-
-    def __str__(self):
+    
+    def courseCount(self):
+        return len(self.courses)
+    
+    def uniqueCoursecount(self):
         uniques = []
         for c in self.courses:
             if f"{c.subject} {c.course}" not in uniques:
                 uniques.append(f"{c.subject} {c.course}")
-        
-        s =  f"Data for {self.year}{self.semester}\n"
-        s += f"There are {len(self.courses)} sections.\n"
-        s += f"There are {len(uniques)} unique sections.\n"
+        return len(uniques)
+
+
+    def __str__(self):
+        s =  f"Semester data for {self.year}{self.semester}:\n"
+        s += f"{self.courseCount()} sections & "
+        s += f"{self.uniqueCoursecount()} unique sections.\n"
         return s
     
     def toJSON(self):

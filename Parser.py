@@ -12,6 +12,10 @@ from Course import Course, ScheduleEntry
 
 class Parser:
     def __init__(self, year, semester, courses_first_day=None, courses_last_day=None) -> None:
+        
+        if year < 2000:
+            raise Exception("Course data is not available prior to 2000.")
+        
         self.page = ""
         self.year = year 
         self.semester = semester
@@ -56,9 +60,19 @@ class Parser:
             self.loadPageFromFile()
             print(f"Loaded {self.year}{self.semester} from pages/.")
         except:
-            print(f"No local copy found. Downloading {self.year}{self.semester} from langara.ca")
+            print(f"Downloading {self.year}{self.semester} from langara.ca because no local copy was found.")
             self.loadPageFromWeb(save)
             print(f"Download complete.")
+    
+    def loadParseSaveAll() -> None:
+        for year in range(2000, 2023):
+            for semester in range(10, 31, 10):
+                p = Parser(year, semester)
+                p.loadPage()
+                
+                s = p.parse()
+                s.saveToFile()
+                print(s)
         
     def savePage(self, location="pages/", filename=None) -> None:
         if filename == None:
@@ -67,7 +81,7 @@ class Parser:
         if self.page == "":
             raise Exception("Cannot save empty page.")
         
-        with open(filename, "w+") as fi:
+        with open(location + filename, "w+") as fi:
             fi.write(self.page)
         
     
@@ -99,7 +113,7 @@ class Parser:
 
         # write each entry on the table into a list
         # do not save anythign we do not need (headers, lines and courrse headings)
-        rawdata = []
+        rawdata:list[str] = []
         for i in table1.find_all("td"):
             
             # remove the grey separator lines
@@ -130,6 +144,16 @@ class Parser:
         i = 0
 
         while i < len(rawdata)-1:
+            
+            frontNotes = False
+            # sometimes notes are in front of the course? (see 10439 in 201110)
+            if len(rawdata[i]) > 2:
+                frontNotes = True
+                i += 1
+                
+            # terrible way to fix off by one error (see 30566 in 201530)
+            if rawdata[i].isdigit():
+                i -= 1
 
             current_course = Course(
                 RP        = rawdata[i],
@@ -145,14 +169,17 @@ class Parser:
                 rpt_limit = rawdata[i+11],
             )
             
+            if frontNotes:
+                current_course.notes = rawdata[i-1]
+                            
             semester.addCourse(current_course)
             i += 12
             
             while True:
                 
                 # sanity check
-                if rawdata[i] not in ["Lecture", "Lab", "Seminar", "Practicum","WWW", "On Site Work", "Exchange-International", "Tutorial", "Exam", "Field School"]:
-                    raise Exception(f"Parsing error: unexpected course type found: {rawdata[i]}. {current_course}")
+                if rawdata[i] not in [" ", "CO-OP(on site work experience)", "Lecture", "Lab", "Seminar", "Practicum","WWW", "On Site Work", "Exchange-International", "Tutorial", "Exam", "Field School", "Flexible Assessment", "GIS Guided Independent Study"]:
+                    raise Exception(f"Parsing error: unexpected course type found: {rawdata[i]}. {current_course} in course {current_course.toJSON()}")
                                         
                 c = ScheduleEntry(
                     type       = rawdata[i],
@@ -197,17 +224,25 @@ class Parser:
    
         return semester
 
+
+
 # fall (30) starts in september (09) and ends in november (11) or december (12)
 # spring (10) starts in jan (01) and ends in april (04)
 # summer (20) starts in may (05) and ends in july(07) or august (08)
 def get_start_end_dates(year:int, semester:int) -> tuple[str, str]:
-    if year < 2011 or (year == 2011 and semester != "30") or (year > 2023):
-        raise Exception("Cannot get semester dates for given semester.")
-    
     year = str(year)
     semester = str(semester)
     
-    get = start_end_dates[year + semester]
+    if year+semester not in start_end_dates.keys():
+        print(f"Semester start and end dates are not available for given semester ({year}{semester}). Providing best estimate.")
+        if semester == "30":
+            get = (5, 30)
+        if semester == "10":
+            get = (4, 6)
+        if semester == "20":
+            get = (8, 4)
+    else:   
+        get = start_end_dates[year + semester]
         
     if semester == "30":
         start = "09"
@@ -228,7 +263,7 @@ def get_start_end_dates(year:int, semester:int) -> tuple[str, str]:
     
     
 
-start_end_dates: tuple[str, str] = {
+start_end_dates = {
     "201130" : (6, 2),
     "201210" : (4, 5),
     "201220" : (7, 3),
