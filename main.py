@@ -1,17 +1,19 @@
 from Parser import Parser
+from DataExplorer import DataExplorer
 
 # Example usage
-
-# load page with parser
-# will first look for page locally, then fetch year from webpage
-parser = Parser(2023, 10)
-parser.loadPage()
-
-# parses the webpage
-semester = parser.parse()
-print(semester)
-
-# save the result to a json file
-semester.saveToFile()
+p = Parser()
+# warning: this will retrieve all 20 years of available course data
+# and save the source data and parsed data locally
+# this only needs to be run once.
+p.loadParseSaveAll()
 
 
+
+explorer = DataExplorer()
+explorer.loadJSON() # loads json from /json directory
+
+explorer.filterCoursesByCondition("subject", "CPSC")
+
+for s in explorer.semesters:
+    print(f"{s.year}{s.semester} Courses: {s.courseCount()}\tUnique Courses: {s.uniqueCoursecount()}")
