@@ -148,13 +148,15 @@ class Parser:
             
             # some class-wide notes that apply to all sections of a course are put in front of the course (see 10439 in 201110)
             # this is a bad way to deal with them
+            # this fails for some cases (ie 20105 in 200710)
             if len(rawdata[i]) > 2:
                 # 0 stores the subj and course id (ie CPSC 1150)
                 # 1 stores the note and edits it properly
-                sectionNotes = (
-                    f"{current_course.subject} {current_course.course}", 
-                    rawdata[i-1].replace(f"{current_course.subject} {current_course.course}", "", 1).strip()
-                    )
+                sectionNotes = [
+                    rawdata[i][0:9],
+                    rawdata[i][10:].strip()
+                ]
+                print("NEW SECTIONNOTES:", sectionNotes)
                 i += 1
                 
             # terrible way to fix off by one error (see 30566 in 201530)
@@ -179,6 +181,7 @@ class Parser:
                 if sectionNotes[0] == f"{current_course.subject} {current_course.course}":
                     current_course.notes = sectionNotes[1]
                 else:
+                    print("STOPPED ON ", sectionNotes[0], f"{current_course.subject} {current_course.course}")
                     sectionNotes = None
                             
             semester.addCourse(current_course)

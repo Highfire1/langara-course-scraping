@@ -451,7 +451,7 @@
             "title": "General Biology I",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N\" grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -494,7 +494,7 @@
             "title": "General Biology I",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N\" grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -528,7 +528,7 @@
             "title": "General Biology I",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N\" grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -580,7 +580,7 @@
             "title": "General Biology I",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N\" grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -657,7 +657,7 @@
             "title": "Cncpts in Biology I-Human Bio",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -691,7 +691,7 @@
             "title": "Cncpts in Biology I-Human Bio",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -784,7 +784,7 @@
             "title": "Hlt Sci II-Human Anat & Phy II",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": "BIOL 1191 \rStudents who fail to attend the first scheduled lab of any BIOLOGY course will receive a 'N' grade for the course.",
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive a 'N' grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -818,7 +818,7 @@
             "title": "Hlt Sci II-Human Anat & Phy II",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive a 'N' grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -861,7 +861,7 @@
             "title": "General Biology II",
             "add_fees": "     $45.00",
             "rpt_limit": "2",
-            "notes": "BIOL 1215 \rStudents who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -904,7 +904,7 @@
             "title": "General Biology II",
             "add_fees": "     $45.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1022,7 +1022,7 @@
             "title": "Introduction to Ecology",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": "BIOL 2380 \rStudents who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": "Students who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1106,7 +1106,7 @@
             "title": "Business Computer Applns I",
             "add_fees": "     $25.00",
             "rpt_limit": "-",
-            "notes": "BCAP 1200 \rStudents will only receive credit for either BCAP 1200 or CPSC 1000 and not both courses.",
+            "notes": "Students will only receive credit for either BCAP 1200 or CPSC 1000 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1131,7 +1131,7 @@
             "title": "Business Computer Applns I",
             "add_fees": "     $25.00",
             "rpt_limit": "-",
-            "notes": null,
+            "notes": "Students will only receive credit for either BCAP 1200 or CPSC 1000 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1231,7 +1231,7 @@
             "title": "Business Law",
             "add_fees": "     $12.00",
             "rpt_limit": "-",
-            "notes": "BUSM 1285 \rStudents will only receive credit for either BUSM 1285 or INTB 2350 but not both courses.",
+            "notes": "Students will only receive credit for either BUSM 1285 or INTB 2350 but not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1256,7 +1256,7 @@
             "title": "Business Law",
             "add_fees": "     $12.00",
             "rpt_limit": "-",
-            "notes": null,
+            "notes": "Students will only receive credit for either BUSM 1285 or INTB 2350 but not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1615,7 +1615,7 @@
             "title": "An Introduction to Chemistry",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": "CHEM 1114 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1114 begin the week of May 8.",
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1114 begin the week of May 8.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1701,7 +1701,7 @@
             "title": "An Introduction to Chemistry",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1114 begin the week of May 8.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1744,7 +1744,7 @@
             "title": "Intermediate Chemistry",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": "CHEM 1118 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1118 begin the week of May 15.",
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1118 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1778,7 +1778,7 @@
             "title": "General Chemistry I",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": "CHEM 1120 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1120 begin the week of May 15.",
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1120 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1821,7 +1821,7 @@
             "title": "General Chemistry I",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1120 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1864,7 +1864,7 @@
             "title": "General Chemistry II",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": "CHEM 1220 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1220 begin the week of May 15.",
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1220 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1907,7 +1907,7 @@
             "title": "General Chemistry II",
             "add_fees": "     $21.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1220 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1950,7 +1950,7 @@
             "title": "Organic Chemistry II",
             "add_fees": "     $35.00",
             "rpt_limit": "2",
-            "notes": "CHEM 2416 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 2416 begin the week of May 15.",
+            "notes": "Students who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 2416 begin the week of May 15.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -2209,7 +2209,7 @@
             "title": "Essential Computer Application",
             "add_fees": "     $25.00",
             "rpt_limit": "2",
-            "notes": "CPSC 1000 \rStudents will only receive credit for either CPSC 1000 or BCAP 1200 and not both courses.",
+            "notes": "Students will only receive credit for either CPSC 1000 or BCAP 1200 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -2243,7 +2243,7 @@
             "title": "Essential Computer Application",
             "add_fees": "     $25.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will only receive credit for either CPSC 1000 or BCAP 1200 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -2277,7 +2277,7 @@
             "title": "Essential Computer Application",
             "add_fees": "     $25.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will only receive credit for either CPSC 1000 or BCAP 1200 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3557,7 +3557,7 @@
             "title": "Principles of Microeconomics",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": null,
+            "notes": "ECON 1220 and ECON 1221 may be taken in either order.  Students with a CGPA of 3.0 may take ECON 1220 and ECON 1221 concurrently with departmental permission.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3707,7 +3707,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1107 \rEnglish 1107 is for students whose first language is not English.",
+            "notes": "English 1107 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3732,7 +3732,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "English 1107 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3757,7 +3757,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "English 1107 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3807,7 +3807,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "English 1107 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3832,7 +3832,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1108 \rEnglish 1108 is for students whose first language is not English.",
+            "notes": "English 1108 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3857,7 +3857,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "English 1108 is for students whose first language is not English.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3932,7 +3932,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1121 \rStudents with LET 3 or LPI 24/40 on the essay should take ENGL 1121 for college credit before attempting 1127 for university transfer credit.  See calendar for course desciptions.",
+            "notes": "Students with LET 3 or LPI 24/40 on the essay should take ENGL 1121 for college credit before attempting 1127 for university transfer credit.  See calendar for course desciptions.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3957,7 +3957,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students with LET 3 or LPI 24/40 on the essay should take ENGL 1121 for college credit before attempting 1127 for university transfer credit.  See calendar for course desciptions.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3982,7 +3982,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students with LET 3 or LPI 24/40 on the essay should take ENGL 1121 for college credit before attempting 1127 for university transfer credit.  See calendar for course desciptions.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4007,7 +4007,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students with LET 3 or LPI 24/40 on the essay should take ENGL 1121 for college credit before attempting 1127 for university transfer credit.  See calendar for course desciptions.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4032,7 +4032,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1127 \rStudents will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4057,7 +4057,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4082,7 +4082,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4107,7 +4107,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4132,7 +4132,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4157,7 +4157,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4182,7 +4182,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4207,7 +4207,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4232,7 +4232,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4257,7 +4257,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4307,7 +4307,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4332,7 +4332,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4357,7 +4357,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4382,7 +4382,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4432,7 +4432,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or 5/10 or higher in English usage; or10/20 or higher in reading comprehension. See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4507,7 +4507,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1129 \rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4532,7 +4532,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4557,7 +4557,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4582,7 +4582,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4607,7 +4607,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4682,7 +4682,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $12.00",
             "rpt_limit": "2",
-            "notes": "ENGL 1130 \rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4707,7 +4707,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $12.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4732,7 +4732,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $12.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4757,7 +4757,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $12.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6206,7 +6206,7 @@
             "title": "International Law",
             "add_fees": "     $12.00",
             "rpt_limit": "-",
-            "notes": "INTB 2350 \rStudents will receive credit for either INTB 2350 or BUSM 1285 and not for both.",
+            "notes": "Students will receive credit for either INTB 2350 or BUSM 1285 and not for both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6590,7 +6590,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1100 \rStudents registered in Math 1100 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.  Students with Math 11 and higher, should not register in this course unless they write the Math Diagnostic Test (MDT) or they obtain prior approval of the Math/Stats Department.",
+            "notes": "Students registered in Math 1100 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.  Students with Math 11 and higher, should not register in this course unless they write the Math Diagnostic Test (MDT) or they obtain prior approval of the Math/Stats Department.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6615,7 +6615,7 @@
             "title": "Basic Algebra",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1101 \rStudents registered in Math 1101 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
+            "notes": "Students registered in Math 1101 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6690,7 +6690,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students registered in Math 1150 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6715,7 +6715,7 @@
             "title": "Precalculus Algebra",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1152 \rStudents registered in Math 1152 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
+            "notes": "Students registered in Math 1152 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6740,7 +6740,7 @@
             "title": "Precalculus Algebra",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students registered in Math 1152 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6840,7 +6840,7 @@
             "title": "Calculus I",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1171 \rStudents will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
+            "notes": "Students will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6890,7 +6890,7 @@
             "title": "Calculus I With Computer Expl",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1173 \rMath 1183 is a co-requisite to Math 1173.Students will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
+            "notes": "Math 1183 is a co-requisite to Math 1173.Students will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6965,7 +6965,7 @@
             "title": "Computer Expl for Calculus I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "MATH 1183 \rMath 1173 is a co-requisite to Math 1183.",
+            "notes": "Math 1173 is a co-requisite to Math 1183.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7015,7 +7015,7 @@
             "title": "Intro to Calculus I Part 2",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1253 \rStudents will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
+            "notes": "Students will receive credit for only one of MATH 1171, MATH 1173, or MATH 1253.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7040,7 +7040,7 @@
             "title": "Calculus II",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1271 \rStudents will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
+            "notes": "Students will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7065,7 +7065,7 @@
             "title": "Calculus II",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7140,7 +7140,7 @@
             "title": "Calculus II-Econ & Bus Applica",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 1274 \rStudents will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
+            "notes": "Students will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7165,7 +7165,7 @@
             "title": "Calculus II-Econ & Bus Applica",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": null,
+            "notes": "Students will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7215,7 +7215,7 @@
             "title": "Linear Algebra",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "MATH 2362 \rMath 2382 is a recommended co-requisite to Math 2362.  The last day to register in MATH and STAT courses is May 14.",
+            "notes": "Math 2382 is a recommended co-requisite to Math 2362.  The last day to register in MATH and STAT courses is May 14.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7265,7 +7265,7 @@
             "title": "Linear Algebra Laboratory",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "MATH 2382 \rMath 2362 is a recommended co-requisite to Math 2382.",
+            "notes": "Math 2362 is a recommended co-requisite to Math 2382.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7827,7 +7827,7 @@
             "title": "Healing/Health Sci: Adv Hlth",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "NURS 3141 \rStudents in NURSING term 6 must register in all section 1 or all section 2 courses.  Do not register in evening courses on Tuesday or Wednesday as practice experiences may involve evenings.",
+            "notes": "Students in NURSING term 6 must register in all section 1 or all section 2 courses.  Do not register in evening courses on Tuesday or Wednesday as practice experiences may involve evenings.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7852,7 +7852,7 @@
             "title": "Healing/Health Sci: Adv Hlth",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": null,
+            "notes": "Students in NURSING term 6 must register in all section 1 or all section 2 courses.  Do not register in evening courses on Tuesday or Wednesday as practice experiences may involve evenings.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8587,7 +8587,7 @@
             "title": "Fundamentals of Psychology II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": null,
+            "notes": "PSYC 1215 and PSYC 1115 can be taken in either order or concurrently.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8989,7 +8989,7 @@
             "title": "Statistical Methods I",
             "add_fees": "      $3.00",
             "rpt_limit": "2",
-            "notes": "STAT 1124 \rStudents will only receive credit for either STAT 1124 or PSYC 2321 and not both courses.",
+            "notes": "Students will only receive credit for either STAT 1124 or PSYC 2321 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",

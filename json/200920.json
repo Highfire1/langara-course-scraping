@@ -217,7 +217,7 @@
             "title": "General Biology I",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "BIOL 1115 \rStudents who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N\" grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -371,7 +371,7 @@
             "title": "Cncpts in Biology I-Human Bio",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "BIOL 1116 \rStudents who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -439,7 +439,7 @@
             "title": "Hlt Sci I-Human Anat & Phy I",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "BIOL 1190 \rStudents who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -541,7 +541,7 @@
             "title": "Hlt Sci II-Human Anat & Phy II",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "BIOL 1191 \rStudents who fail to attend the first scheduled lab of any BIOLOGY course will receive a 'N' grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -652,7 +652,7 @@
             "title": "General Biology II",
             "add_fees": "     $46.80",
             "rpt_limit": "2",
-            "notes": "BIOL 1215 \rStudents who fail to attend the first scheduled LAB of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -813,7 +813,7 @@
             "title": "Introduction to Ecology",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "BIOL 2380 \rStudents who fail to attend the first scheduled lab of any BIOLOGY course will receive an 'N' grade for the course.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -856,7 +856,7 @@
             "title": "Business Computer Applns I",
             "add_fees": "     $26.00",
             "rpt_limit": "-",
-            "notes": "BCAP 1200 \rStudents will only receive credit for either BCAP 1200 or CPSC 1000 and not both courses.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1081,7 +1081,7 @@
             "title": "Business Law",
             "add_fees": "     $12.50",
             "rpt_limit": "-",
-            "notes": "BUSM 1285 \rStudents will only receive credit for either BUSM 1285 or INTB 2350 but not both courses.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1617,7 +1617,7 @@
             "title": "An Introduction to Chemistry",
             "add_fees": "     $21.80",
             "rpt_limit": "2",
-            "notes": "CHEM 1114 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1114 begin the week of May 4.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1703,7 +1703,7 @@
             "title": "Intermediate Chemistry",
             "add_fees": "     $21.80",
             "rpt_limit": "2",
-            "notes": "CHEM 1118 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1118 begin the week of May 11.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1746,7 +1746,7 @@
             "title": "General Chemistry I",
             "add_fees": "     $21.80",
             "rpt_limit": "2",
-            "notes": "CHEM 1120 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1120 begin the week of May 11.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1832,7 +1832,7 @@
             "title": "General Chemistry II",
             "add_fees": "     $21.80",
             "rpt_limit": "2",
-            "notes": "CHEM 1220 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 1220 begin the week of May 11.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1918,7 +1918,7 @@
             "title": "Organic Chemistry II",
             "add_fees": "     $36.40",
             "rpt_limit": "2",
-            "notes": "CHEM 2416 \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 2416 begin the week of May 11.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -2013,7 +2013,7 @@
             "title": "Co-op Work Placement I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "COOP 2301 \rCOOP 2301 was formerly COOP 2310.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "On Site Work",
@@ -2063,7 +2063,7 @@
             "title": "Co-op Work Placement II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "COOP 2501 \rCOOP 2501 was formerly COOP 2510.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "On Site Work",
@@ -3633,7 +3633,7 @@
             "title": "Principles of Macroeconomics",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "ECON 1221 \rECON 1221 and ECON 1220 may be taken in either order.  Students with a CGPA of 3.0 may take ECON 1221 and ECON 1220 concurrently with departmental permission.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3701,7 +3701,7 @@
             "title": "Managerial Economics",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "ECON 2296 \rStudents will only receive credit for either ECON 2296 or ECON 2251 but not both courses.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -3812,7 +3812,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1107 \rEnglish 1107 is for students whose first language is not English.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4012,7 +4012,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1108 \rEnglish 1108 is for students whose first language is not English.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4162,7 +4162,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1127 \rStudents will receive credit for either ENGL 1127 or ENGL 1128 but not both.  Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students who have BC English 12 or BC English Literature 12 or equivalent with an 80% are not required to write the LET or LPI.Students not meeting those exemptions need the following scores on LET or LPI:LET 3 or LPI 26 on the essay with one of the following:5/10 or higher in sentence structure; or5/10 or higher in English usage; or10/20 or higher in reading comprehension.Students who have scored a level 3 on the LET (or 26/40 with a 5 or higher in English usage on the LPI) are also strongly encouraged to register in English 1121 (there is no tuition charge for this course) in order to upgrade their reading and writing skills.  English 1121 will help students at this prerequisite level succeed in ENGL 1127 which is the university transfer course.  See calendar for course descriptions.  Students with LET or LPI level 5 should enrol in ENGL 1128.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4684,7 +4684,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1129 \rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -4918,7 +4918,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $12.50",
             "rpt_limit": "2",
-            "notes": "ENGL 1130 \rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7225,7 +7225,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1100 \rStudents registered in Math 1100 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the above scheduled times.  Students with Math 11 and higher, should not register in this course unless they write the Math Diagnostic Test (MDT) or they obtain prior approval of the Math/Stats Department.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7250,7 +7250,7 @@
             "title": "Basic Algebra",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1101 \rStudents registered in Math 1101 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the scheduled times below.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7275,7 +7275,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1150 \rStudents registered in Math 1150 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the scheduled times below.The last day to register in MATH and STAT courses is May 14.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7300,7 +7300,7 @@
             "title": "Precalculus Algebra",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1152 \rStudents registered in Math 1152 are expected to spend at least one hour per week in the Math/Stat Activity Centre, in addition to the scheduled times below.The last day to register in MATH and STAT courses is May 14th",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7443,7 +7443,7 @@
             "title": "Calculus I",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1171 \rStudents will receive credit for only one of MATH 1171, MATH 1173, MATH 1174, or MATH 1253.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7493,7 +7493,7 @@
             "title": "Calculus I With Computer Expl",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1173 \rMath 1183 is a co-requisite to Math 1173.Students will receive credit for only one of MATH 1171, MATH 1173, MATH 1174 or MATH 1253.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7518,7 +7518,7 @@
             "title": "Calculus I-Econ & Bus Applica",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1174 \rStudents will receive credit for only one of MATH 1171, MATH 1173, MATH 1174 or MATH 1253.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7593,7 +7593,7 @@
             "title": "Computer Expl for Calculus I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "MATH 1183 \rMath 1173 is a co-requisite to Math 1183.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7643,7 +7643,7 @@
             "title": "Intro to Calculus I Part 2",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1253 \rStudents will receive credit for only one of MATH 1171, MATH 1173, MATH 1174 or MATH 1253.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7668,7 +7668,7 @@
             "title": "Calculus II",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1271 \rStudents will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7718,7 +7718,7 @@
             "title": "Calculus II-Econ & Bus Applica",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 1274 \rStudents will receive credit for only one of MATH 1271, MATH 1273, or MATH 1274.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7768,7 +7768,7 @@
             "title": "Linear Algebra",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "MATH 2362 \rMath 2382 is a recommended co-requisite to Math 2362.  The last day to register in MATH and STAT courses is May 14.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8117,7 +8117,7 @@
             "title": "Nursing Practice III",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "NURS 2140 \rStudents must register in all section 001/M01 or all section 002/M02 courses.Do not register in any evening courses Tuesday or Wednesday as practice may involve evenings.  Biology 2290 must be completed with a minimum of C+ grade in order to progress to term 4.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8194,7 +8194,7 @@
             "title": "Healing I:Epsdc Hlth Chal",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "NURS 2250 \rStudents must register in all section 001/M01 or all section 002/M02 courses.Do not register for evening courses on Tuesday or Wednesday as practice experiences may involve evenings.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8262,7 +8262,7 @@
             "title": "Consolidated Practice Exp. I",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "NURS 2265 \rDo not register for evening courses Monday, Tuesday, or Wednesday as practice experience may include evenings.University transferable non-Nursing elective I must be completed with a minimum \"C\" grade to progress to Term 6.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Practicum",
@@ -8287,7 +8287,7 @@
             "title": "Health III: Tchg & Lrng for Pr",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "NURS 3111 \rStudents must register in all section 001/M01 or all section 002/M02 courses.Do not register for evening courses on Tuesday and Wednesday as practice experiences may  include evenings.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8623,7 +8623,7 @@
             "title": "Consolidated Prc Exp II",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "NURS 3365 \rDo not register for evening courses on Monday, Tuesday, or Wednesday as practice experiences may include evenings.  University transferable non-Nursing elective II must be completed with a minimum \"C\" grade to progress to Term 9.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Practicum",
@@ -8648,7 +8648,7 @@
             "title": "Prof Growth IV: Research",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "NURS 4125 \rStudents must register for all section 001/M01 or all section 002/M02 courses.  Do not register for evening courses on Tuesday or Wednesday as practice experiences may include evenings. Nursing elective must be completed with a minimum \"C\" grade to progress to Term 10.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8766,7 +8766,7 @@
             "title": "Nursing Practice VII",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "NURS 4145 \rStudents must register for all section 001/M01 or all section 002/M02 courses.  Do not register for evening courses on Tuesday or Wednesday as practice experiences may include evenings.  Nursing elective must be completed with a minimum \"C\" grade to progress to Term 10.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8834,7 +8834,7 @@
             "title": "Nursing Leadership & Mngmnt",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "NURS 4180 \rStudents must register for all section 001/M01 or all section 002/M02 courses.  Do not register for evening courses on Tuesday or Wednesday as practice experiences may include evenings.  Nursing elective must be completed with a minimum \"C\" grade to progress to Term 10.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9612,7 +9612,7 @@
             "title": "Data Analysis for Psychology",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "PSYC 2321 \rStudents will only receive credit for either PSYC 2321 or STAT 1124 and not both courses.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10032,7 +10032,7 @@
             "title": "Statistical Methods I",
             "add_fees": "      $3.10",
             "rpt_limit": "2",
-            "notes": "STAT 1124 \rStudents will only receive credit for either STAT 1124 or PSYC 2321 and not both courses.",
+            "notes": null,
             "schedule": [
                 {
                     "type": "Lecture",
