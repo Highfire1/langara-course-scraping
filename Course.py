@@ -39,15 +39,21 @@ class ScheduleEntry:
     def __str__(self):
         return json.dumps(self.__dict__)
     
+    def __repr__(self):
+        return str(self)
+    
     def toJSON(self):
         return json.dumps(self.__dict__)
 
 # converts date from "11-Apr-23" to "2023-04-11"
 def convertDate(date:str):
+    if date == None:
+        return None
+    
     if len(date) != 9 or len(date.split("-")) != 3 or date.split("-")[1].isdigit():
         return date
         
     date = date.split("-")
     months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
-    return f"20{date[2]}-{months.index(date[1].lower())}-{date[0]}"
+    return f"20{date[2]}-{months.index(date[1].lower())+1}-{date[0]}"
     

@@ -25,18 +25,36 @@ class DataExplorer:
             for c in delete:
                 s.courses.remove(c)
     
+    def coursesSummary(self):
+        print("Summary: ")
+        for s in self.semesters:
+            print(f"{s.year}{s.semester} Courses: {s.courseCount()}\tUnique Courses: {s.uniqueCoursecount()}")
+
     
-    def loadJSON(self) -> list[Semester]:
+    # pass e.g. 202310 to only get 202310
+    def loadJSON(self, *semesters:str) -> list[Semester]:
         files = os.listdir("json/")
         
         data = []
         
-        for fi in files:
-            with open(f"json/{fi}") as fi:
-                d = json.loads(fi.read())
-                data.append(d)
+        if len(semesters) > 0:
+            for s in semesters:
+                with open(f"json/{s}.json") as fi:
+                    d = json.loads(fi.read())
+                    data.append(d)
+        else:
+            for fi in files:
+                # "ignore" other json files
+                if len(fi) != 11:
+                    continue
+                
+                with open(f"json/{fi}") as fi:
+                    d = json.loads(fi.read())
+                    data.append(d)
+                    
         
         for s in data:
+        
             sem = Semester(
                 s["year"],
                 s["semester"],
@@ -74,4 +92,4 @@ class DataExplorer:
                           sc["instructor"]
                       )
                       course.schedule.append(schedule)
-                      
+              

@@ -16,31 +16,39 @@ class Parser:
         if year < 2000:
             raise Exception("Course data is not available prior to 2000.")
         
-        self.page = ""
         self.year = year 
         self.semester = semester
-        self.courses_first_day = courses_first_day # first day of classes
-        self.courses_last_day = courses_last_day    # last day of classes - does not include final exam period
         
-        if courses_first_day == None or courses_last_day == None:
-            get = get_start_end_dates(year, semester=semester)
-            self.courses_first_day = get[0]
-            self.courses_last_day = get[1]
-            
-        
+        self.page = None
+        self.courses_first_day = None
+        self.courses_last_day = None    # last day of classes - does not include final exam period
+    
+    # Tries to load page from pages/
     def loadPageFromFile(self, file_location=None) -> None:
         if file_location == None:
             file_location = f"pages/{self.year}{self.semester}.html"
         
         with open(file_location, "r") as p:
-            page = p.read()
-            
-        self.page = page
-    
+            self.page = p.read()
+                
+    # Tries to get page from website
     def loadPageFromWeb(self, save=True) -> None:
-        # todo: make this not hardcoded
-        subjects = ["ABST", "ANTH", "APPL", "APSC", "DASH", "AHIS", "ASIA", "ASTR", "BINF", "BIOL", "BCAP", "BUSM", "CNST", "CHEM", "CHIN", "CLST", "COOP", "CMNS", "CPSC", "CSIS", "CJUS", "CRIM", "DANA", "DSGN", "ECED", "ECON", "EDAS", "ENGL", "ENVS", "FLMA", "FMGT", "FINA", "FSRV", "FREN", "GEOG", "GEOL", "GERO", "HSCI", "HIST", "INTB", "EXCH", "JAPN", "JOUR", "KINS", "LATN", "LAMS", "LIBR", "MARK", "MATH", "NURS", "NUTR", "PCCN", "PHIL", "PHED", "PHYS", "POLI", "PHOT", "PSYC", "PUBL", "RECR", "SCIE", "SSRV", "SOCI", "SPAN", "STAT", "THEA", "WMDD", "WMST", "EXPE", "WILX"]
+        # get available subjects (ie ABST, ANTH, APPL, etc)
+        
+        url = f"https://swing.langara.bc.ca/prod/hzgkfcls.P_Sel_Crse_Search?term={self.year}{self.semester}"
+        i = requests.post(url)
+        soup = BeautifulSoup(i.text, "lxml")
+        
 
+        courses = soup.find("select", {"id":"subj_id"})
+        courses = courses.findChildren()
+        
+        subjects = []
+        for c in courses: #c = ['<option value=', 'SPAN', '>Spanish</option>']
+            subjects.append(str(c).split('"')[1])
+
+        #print("Available subjects: ", subjects)
+        
         subjects_data = ""
         for s in subjects:
             subjects_data += f"&sel_subj={s}"
@@ -54,7 +62,8 @@ class Parser:
         
         if save:
             self.savePage()
-        
+    
+    # Tries to load page from /pages, then tries to access it on the internet
     def loadPage(self, save=True) -> None:
         try:
             self.loadPageFromFile()
@@ -64,6 +73,7 @@ class Parser:
             self.loadPageFromWeb(save)
             print(f"Download complete.")
     
+    # Loads and parses ALL pages 
     def loadParseSaveAll() -> None:
         for year in range(2000, 2023):
             for semester in range(10, 31, 10):
@@ -73,7 +83,8 @@ class Parser:
                 s = p.parse()
                 s.saveToFile()
                 print(s)
-        
+    
+    # saves a page to file
     def savePage(self, location="pages/", filename=None) -> None:
         if filename == None:
             filename = f"{self.year}{self.semester}.html"
@@ -83,8 +94,12 @@ class Parser:
         
         with open(location + filename, "w+") as fi:
             fi.write(self.page)
+            
+    def parseAndSave(self, location="json/", filename=None):
+        s = self.parse()
+        s.saveToFile(location=location)
         
-    
+    # parses a page and returns a Semester
     def parse(self) -> Semester:
         semester = Semester(self.year, self.semester, self.courses_first_day, self.courses_last_day)
                 
@@ -143,6 +158,10 @@ class Parser:
 
         i = 0
         sectionNotes = None
+        
+        with open("aa.txt", "w+") as fi:
+            for item in rawdata:
+                fi.write(item +  "\n")
 
         while i < len(rawdata)-1:
             
@@ -156,7 +175,7 @@ class Parser:
                     rawdata[i][0:9],
                     rawdata[i][10:].strip()
                 ]
-                print("NEW SECTIONNOTES:", sectionNotes)
+                #print("NEW SECTIONNOTES:", sectionNotes)
                 i += 1
                 
             # terrible way to fix off by one error (see 30566 in 201530)
@@ -179,9 +198,9 @@ class Parser:
             
             if sectionNotes != None:
                 if sectionNotes[0] == f"{current_course.subject} {current_course.course}":
+                    
                     current_course.notes = sectionNotes[1]
                 else:
-                    print("STOPPED ON ", sectionNotes[0], f"{current_course.subject} {current_course.course}")
                     sectionNotes = None
                             
             semester.addCourse(current_course)
@@ -202,6 +221,10 @@ class Parser:
                     room       = rawdata[i+5], 
                     instructor = rawdata[i+6], 
                 )
+                if c.start.isspace():
+                    c.start = self.courses_first_day
+                if c.end.isspace():
+                    c.end = self.courses_last_day
                 
                 current_course.schedule.append(c)
                 i += 7
@@ -223,7 +246,11 @@ class Parser:
                 
                 # if j is 9, its a note e.g. "This section has 2 hours as a WWW component"
                 if j == 9:
-                    current_course.notes = rawdata[i].replace("\n", "") # dont save newlines
+                    # some courses have a section note and a normal note
+                    if current_course.notes == None:
+                        current_course.notes = rawdata[i].replace("\n", "") # dont save newlines
+                    else:
+                        current_course.notes = rawdata[i].replace("\n", "") + "\n" + current_course.notes
                     i += 5
                     break
                 
@@ -233,84 +260,6 @@ class Parser:
                 
                 else:
                     break
-   
+        
+        semester.extractDates()
         return semester
-
-
-
-# fall (30) starts in september (09) and ends in november (11) or december (12)
-# spring (10) starts in jan (01) and ends in april (04)
-# summer (20) starts in may (05) and ends in july(07) or august (08)
-def get_start_end_dates(year:int, semester:int) -> tuple[str, str]:
-    year = str(year)
-    semester = str(semester)
-    
-    if year+semester not in start_end_dates.keys():
-        print(f"Semester start and end dates are not available for given semester ({year}{semester}). Providing best estimate.")
-        if semester == "30":
-            get = (5, 30)
-        if semester == "10":
-            get = (4, 6)
-        if semester == "20":
-            get = (8, 4)
-    else:   
-        get = start_end_dates[year + semester]
-        
-    if semester == "30":
-        start = "09"
-        end = "12" if get[1] < 15 else "11"
-    if semester == "10":
-        start = "01"
-        end = "04"
-    if semester == "20":
-        start = "05"
-        end = "08" if get[1] < 15 else "07"
-        
-    start = f"{year}-{start}-{get[0]}"
-    end = f"{year}-{end}-{get[1]}"
-    
-    return (start, end)
-    
-    
-    
-    
-
-start_end_dates = {
-    "201130" : (6, 2),
-    "201210" : (4, 5),
-    "201220" : (7, 3),
-    "201230" : (4, 30),
-    "201310" : (3, 9),
-    "201320" : (6, 2),
-    "201330" : (4, 30),
-    "201410" : (3, 4),
-    "201420" : (5, 2),
-    "201430" : (2, 29),
-    "201510" : (5, 8),
-    "201520" : (4, 1),
-    "201530" : (8, 2),
-    "201610" : (4, 6),
-    "201620" : (2, 30),
-    "201630" : (6, 3),
-    "201710" : (3, 5),
-    "201720" : (1, 29),
-    "201730" : (5, 30),
-    "201810" : (2, 9),
-    "201820" : (7, 4),
-    "201830" : (4, 3),
-    "201910" : (2, 4),
-    "201920" : (6, 3),
-    "201930" : (3, 2),
-    "202010" : (6, 3),
-    "202020" : (4, 1),
-    "202030" : (8, 3),
-    "202110" : (6, 8),
-    "202120" : (6, 5),
-    "202130" : (8, 2),
-    "202210" : (6, 7),
-    "202220" : (9, 5), 
-    "202230" : (6, 2),
-    "202310" : (4, 6), 
-    "202320" : (8, 4), 
-    "202330" : (5, 30),
-}

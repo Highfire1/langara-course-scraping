@@ -53,3 +53,36 @@ class Semester:
         with open(location + filename, "w+") as fi:
             fi.write(self.toJSON())
     
+    # sets start/end dates of semesters by looking for most common start/end dates
+    # not verified to be 100% correct but should be good enough
+    def extractDates(self):        
+        starts = {}
+        ends = {}
+        
+        for course in self.courses:
+            for sch in course.schedule:
+                
+                if sch.type == "Exam":
+                    continue
+        
+                
+                if sch.start != None:
+                    if sch.start not in starts:
+                        starts[sch.start] = 0
+                    starts[sch.start] += 1
+                
+                if sch.start != None:
+                    if sch.end not in ends:
+                        ends[sch.end] = 0
+                    ends[sch.end] += 1
+        
+        #print(starts, "\n", ends)
+        
+        # magic from stackoverflow
+        s = max(starts, key=starts.get)
+        e = max(ends, key=ends.get)
+        
+        #print("start:", s)
+        #print("end:", e)
+        self.courses_first_day = s
+        self.courses_last_day = e
