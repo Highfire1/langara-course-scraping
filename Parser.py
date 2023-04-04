@@ -1,17 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import unicodedata
+import os
 
 from Semester import Semester
 from Course import Course, ScheduleEntry
 
-# for fall
-# start date is always the day after labour day
-# end date is 
-# dec 3, dec 2
 
 class Parser:
-    def __init__(self, year, semester, courses_first_day=None, courses_last_day=None) -> None:
+    def __init__(self, year, semester) -> None:
         
         if year < 2000:
             raise Exception("Course data is not available prior to 2000.")
@@ -92,6 +89,8 @@ class Parser:
         if self.page == "":
             raise Exception("Cannot save empty page.")
         
+        # create dir if it doesn't exist
+        os.makedirs(os.path.dirname(location + filename), exist_ok=True)
         with open(location + filename, "w+") as fi:
             fi.write(self.page)
             
