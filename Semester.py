@@ -1,5 +1,6 @@
 import datetime
 import json
+import os
 
 from Course import Course
 
@@ -49,7 +50,10 @@ class Semester:
     def saveToFile(self, location="json/", filename = None):
         if filename == None:
             filename = f"{self.year}{self.semester}.json"
-            
+        
+        # create dir if it doesn't exist
+        os.makedirs(os.path.dirname(location + filename), exist_ok=True)
+        
         with open(location + filename, "w+") as fi:
             fi.write(self.toJSON())
     
