@@ -1039,7 +1039,7 @@
             "title": "Special Topics I",
             "add_fees": "     $54.05",
             "rpt_limit": "-",
-            "notes": "\rAPPL 5195, section M01 will also meet as a WWW component.",
+            "notes": "APPL 5195, section M01 will also meet as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -6995,7 +6995,7 @@
             "title": "Business Mngmt Prctcm",
             "add_fees": "     $14.80",
             "rpt_limit": "2",
-            "notes": "\rPrior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
+            "notes": "Prior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
             "schedule": [
                 {
                     "type": "Flexible Assessment",
@@ -7020,7 +7020,7 @@
             "title": "Disney World Work Experience",
             "add_fees": "     $29.25",
             "rpt_limit": "-",
-            "notes": "\rPrior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
+            "notes": "Prior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
             "schedule": [
                 {
                     "type": "Flexible Assessment",
@@ -7265,7 +7265,7 @@
             "title": "Applied Business Project",
             "add_fees": "     $14.80",
             "rpt_limit": "2",
-            "notes": "\rBUSM 4300, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "BUSM 4300, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7299,7 +7299,7 @@
             "title": "Applied Business Project",
             "add_fees": "     $14.80",
             "rpt_limit": "2",
-            "notes": "\rBUSM 4300, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "BUSM 4300, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10318,7 +10318,7 @@
             "title": "Intro to Classical Chinese I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rCHIN 3331, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CHIN 3331, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11946,7 +11946,7 @@
             "title": "Web Development I",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -12729,7 +12729,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1050, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -12772,7 +12772,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1050, section M05 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M05 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -12815,7 +12815,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1050, section M05 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M05 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": " ",
@@ -13779,7 +13779,7 @@
             "title": "Networking",
             "add_fees": "     $55.85",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1480, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -13822,7 +13822,7 @@
             "title": "Networking",
             "add_fees": "     $55.85",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1480, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -13865,7 +13865,7 @@
             "title": "Networking",
             "add_fees": "     $55.85",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1480, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -13960,7 +13960,7 @@
             "title": "Multimedia & Animation",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 2130, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 2130, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -14046,7 +14046,7 @@
             "title": "Theoretical Founds of Comp Sci",
             "add_fees": "     $30.90",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 2190, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 2190, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16138,7 +16138,7 @@
             "title": "Principles of Microeconomics",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\r\rECON 1220, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "ECON 1220, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16367,7 +16367,7 @@
             "title": "Principles of Macroeconomics",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\r\rECON 1221, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "ECON 1221, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -23273,7 +23273,7 @@
             "title": "Food Service Systems",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rPrior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
+            "notes": "Prior Learning Assessment (PLA) courses DO NOT count towards enrolment eligibility for Government Student Loans and Grants.",
             "schedule": [
                 {
                     "type": "Flexible Assessment",
@@ -27840,7 +27840,7 @@
             "title": "Biodynamics Physical Activity",
             "add_fees": "     $22.25",
             "rpt_limit": "-",
-            "notes": "\rKINS 1100, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "KINS 1100, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34307,7 +34307,7 @@
             "title": "Healing I: Adult Health & Heal",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rNURS 2109, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2109, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34350,7 +34350,7 @@
             "title": "Healing I: Adult Health & Heal",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rNURS 2109, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2109, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34461,7 +34461,7 @@
             "title": "Nurs Knowlge II: Nur Care Adul",
             "add_fees": "     $41.80",
             "rpt_limit": "-",
-            "notes": "\rNURS 2161, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2161, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34504,7 +34504,7 @@
             "title": "Nurs Knowlge II: Nur Care Adul",
             "add_fees": "     $41.80",
             "rpt_limit": "-",
-            "notes": "\rNURS 2161, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2161, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34597,7 +34597,7 @@
             "title": "Healing II: Adu Hlth & Heal II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rNURS 2209, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2209, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34640,7 +34640,7 @@
             "title": "Healing II: Adu Hlth & Heal II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rNURS 2209, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2209, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34751,7 +34751,7 @@
             "title": "NRSG Knowl III: NRS Care Adult",
             "add_fees": "     $41.80",
             "rpt_limit": "-",
-            "notes": "\rNURS 2261, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2261, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34794,7 +34794,7 @@
             "title": "NRSG Knowl III: NRS Care Adult",
             "add_fees": "     $41.80",
             "rpt_limit": "-",
-            "notes": "\rNURS 2261, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2261, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34887,7 +34887,7 @@
             "title": "Health III:Family and Pop Hlth",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3209, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3209, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34921,7 +34921,7 @@
             "title": "Health III:Family and Pop Hlth",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3209, section M02 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3209, section M02 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35209,7 +35209,7 @@
             "title": "Health IV: Community Health",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3309, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3309, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35243,7 +35243,7 @@
             "title": "Health IV: Community Health",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3309, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3309, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35277,7 +35277,7 @@
             "title": "Slf & Othrs III:Wrkpl Int-Pfsm",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3330, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3330, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35311,7 +35311,7 @@
             "title": "Slf & Othrs III:Wrkpl Int-Pfsm",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3330, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3330, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35345,7 +35345,7 @@
             "title": "Nsg Knw VII:Leadersh & Manage",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3361, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3361, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35379,7 +35379,7 @@
             "title": "Nsg Knw VII:Leadersh & Manage",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3361, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3361, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35463,7 +35463,7 @@
             "title": "Nrsg Prac IX: Tran to Nrsg Pra",
             "add_fees": "     $89.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4265, section M01 will also meet for 4 hours per week as a WWW component.",
+            "notes": "NURS 4265, section M01 will also meet for 4 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35506,7 +35506,7 @@
             "title": "Nrsg Prac IX: Tran to Nrsg Pra",
             "add_fees": "     $89.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4265, section M02 will also meet for 4 hours per week as a WWW component.",
+            "notes": "NURS 4265, section M02 will also meet for 4 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35599,7 +35599,7 @@
             "title": "Nrsg Profssn & Health Care I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 5110, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 5110, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35633,7 +35633,7 @@
             "title": "Nrsg Profssn & Health Care I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\r\rNURS 5110, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 5110, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35767,7 +35767,7 @@
             "title": "Crit Thinking & Decis Making I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 5135, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 5135, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35801,7 +35801,7 @@
             "title": "Crit Thinking & Decis Making I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\r\rNURS 5135, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 5135, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35835,7 +35835,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35878,7 +35878,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35921,7 +35921,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -36023,7 +36023,7 @@
             "title": "Sports Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 2500, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 2500, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -43790,7 +43790,7 @@
             "title": "Acting III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTwo hours of lab time per week to be determined by Department Chair.",
+            "notes": "Two hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -43842,7 +43842,7 @@
             "title": "Movement III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTwo hours of lab time per week to be determined by Department Chair.",
+            "notes": "Two hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -43885,7 +43885,7 @@
             "title": "Voice III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTwo hours of lab time per week to be determined by Department Chair.",
+            "notes": "Two hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44050,7 +44050,7 @@
             "title": "Acting IV",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rTwenty hours of lab time per week to be determined by Department Chair.",
+            "notes": "Twenty hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44084,7 +44084,7 @@
             "title": "Movement IV",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rTen hours of lab time per week to be determined by Department Chair.",
+            "notes": "Ten hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44109,7 +44109,7 @@
             "title": "Voice IV",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rTen hours of lab time per week to be determined by Department Chair.",
+            "notes": "Ten hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44134,7 +44134,7 @@
             "title": "Theatre Skills IV",
             "add_fees": "    $158.45",
             "rpt_limit": "-",
-            "notes": "\r\rTwenty hours of lab time per week to be determined by Department Chair.",
+            "notes": "Twenty hours of lab time per week to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44322,7 +44322,7 @@
             "title": "Intro to Raster Graphics",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4805, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4805, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44365,7 +44365,7 @@
             "title": "Intro to Vector Graphics",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4810, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4810, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44408,7 +44408,7 @@
             "title": "HTML/CSS I",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4815, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4815, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44476,7 +44476,7 @@
             "title": "Intro to Web Programming",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4820, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4820, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44544,7 +44544,7 @@
             "title": "Intro User Experience Design",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4825, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4825, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44587,7 +44587,7 @@
             "title": "Intro to Object-Oriented Progr",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4830, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4830, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44630,7 +44630,7 @@
             "title": "HTML/CSS 2",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4835, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4835, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44673,7 +44673,7 @@
             "title": "Content Management Systems",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4840, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4840, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44725,7 +44725,7 @@
             "title": "Intro Mobile App Development",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4845, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4845, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44768,7 +44768,7 @@
             "title": "Comm for Web & Mobile Designer",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4860, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4860, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44802,7 +44802,7 @@
             "title": "Project Management",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4870, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4870, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44870,7 +44870,7 @@
             "title": "Project I",
             "add_fees": "     $21.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4880, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4880, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44904,7 +44904,7 @@
             "title": "Advanced Graphics Design",
             "add_fees": "     $53.00",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4900, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4900, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44947,7 +44947,7 @@
             "title": "3D Design & Prototyping",
             "add_fees": "    $130.05",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4905, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4905, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -44990,7 +44990,7 @@
             "title": "Advanced Graphics Techniques",
             "add_fees": "     $52.00",
             "rpt_limit": "-",
-            "notes": "\r\r\rWMDD 4910, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4910, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45033,7 +45033,7 @@
             "title": "Audio/Video Production",
             "add_fees": "     $78.00",
             "rpt_limit": "-",
-            "notes": "\r\r\rWMDD 4915, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4915, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45076,7 +45076,7 @@
             "title": "Introduction to Databases",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\r\rWMDD 4920, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4920, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45119,7 +45119,7 @@
             "title": "Advanced User Experience Dsgn",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4925, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4925, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45162,7 +45162,7 @@
             "title": "Objct-Orntd Dsgn & Programming",
             "add_fees": "     $53.00",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4930, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4930, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45205,7 +45205,7 @@
             "title": "Server-Side Scripting",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4935, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4935, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45248,7 +45248,7 @@
             "title": "Native Android App Development",
             "add_fees": "     $52.00",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4940, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4940, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45291,7 +45291,7 @@
             "title": "Native iOS App Development",
             "add_fees": "    $130.05",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4945, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4945, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45334,7 +45334,7 @@
             "title": "Security & Cloud & Server Admn",
             "add_fees": "     $78.00",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4950, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4950, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45377,7 +45377,7 @@
             "title": "Busn Strategies for Crea Tech",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4960, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4960, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45411,7 +45411,7 @@
             "title": "Social Media Strategy",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4965, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4965, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45454,7 +45454,7 @@
             "title": "Project 2",
             "add_fees": "     $74.25",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4980, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4980, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45488,7 +45488,7 @@
             "title": "Capstone Project",
             "add_fees": "    $109.20",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4985, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4985, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45522,7 +45522,7 @@
             "title": "Industry Topics I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4990, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4990, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45556,7 +45556,7 @@
             "title": "Directed Studies",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\r\rWMDD 4992, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4992, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45590,7 +45590,7 @@
             "title": "Industry Topics II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4995, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4995, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -45624,7 +45624,7 @@
             "title": "Special Topics",
             "add_fees": "     $36.40",
             "rpt_limit": "-",
-            "notes": "\r\r\rWMDD 4999, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4999, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",

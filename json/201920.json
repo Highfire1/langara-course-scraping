@@ -4432,7 +4432,7 @@
             "title": "Applied Business Project",
             "add_fees": "     $15.05",
             "rpt_limit": "2",
-            "notes": "\rBUSM 4300, section M01 will also meet for 5 hours per week as a WWW component.",
+            "notes": "BUSM 4300, section M01 will also meet for 5 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7211,7 +7211,7 @@
             "title": "Written Communications",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rCMNS 1118, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 1118, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7245,7 +7245,7 @@
             "title": "Written Communications",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rCMNS 1118, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 1118, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7279,7 +7279,7 @@
             "title": "Written Communications",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rCMNS 1118, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 1118, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7313,7 +7313,7 @@
             "title": "Written Communications",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rCMNS 1118, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 1118, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7347,7 +7347,7 @@
             "title": "Written Communications",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rCMNS 1118, section M05 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 1118, section M05 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7456,7 +7456,7 @@
             "title": "Advanced Written Communication",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rCMNS 2228, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CMNS 2228, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7696,7 +7696,7 @@
             "title": "Web Development I",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1030, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1030, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7739,7 +7739,7 @@
             "title": "Web Development I",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1030, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1030, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -7782,7 +7782,7 @@
             "title": "Web Development I",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8264,7 +8264,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1050, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8307,7 +8307,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1050, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8350,7 +8350,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $31.50",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1050, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9081,7 +9081,7 @@
             "title": "Networking",
             "add_fees": "     $56.95",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1480, section M01 will also meet for 3 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M01 will also meet for 3 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9124,7 +9124,7 @@
             "title": "Networking",
             "add_fees": "     $56.95",
             "rpt_limit": "2",
-            "notes": "\r\rCPSC 1480, section M02 will also meet for 3 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M02 will also meet for 3 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10866,7 +10866,7 @@
             "title": "Writing & Comm Effectively",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1098 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1098 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10900,7 +10900,7 @@
             "title": "Writing & Comm Effectively",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1098 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1098 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11138,7 +11138,7 @@
             "title": "ACCESS Langara I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1106 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1106 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11172,7 +11172,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11206,7 +11206,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11240,7 +11240,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11274,7 +11274,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11308,7 +11308,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11342,7 +11342,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11376,7 +11376,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11410,7 +11410,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11444,7 +11444,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11478,7 +11478,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11512,7 +11512,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11546,7 +11546,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11580,7 +11580,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11614,7 +11614,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": " ",
@@ -11639,7 +11639,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11673,7 +11673,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11707,7 +11707,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11750,7 +11750,7 @@
             "title": "Writing & Grammar Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": " ",
@@ -11775,7 +11775,7 @@
             "title": "ACCESS Langara II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1120 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1120 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11809,7 +11809,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11834,7 +11834,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -15822,7 +15822,7 @@
             "title": "Intr Human Sexulty & Behaviour",
             "add_fees": "     $12.00",
             "rpt_limit": "-",
-            "notes": " **Please note: HSCI 1120 is restricted to students in the Associate of Arts: Health Sciences, Mathematics, or General Science; Associate of Science: Bioinformatics, General Biology, Biology, Chemistry, Computer Science, Ecology, Health Sciences, Mathematics, Molecular/Microbiology, Physics, or General Science; Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
+            "notes": "**Please note: HSCI 1120 is restricted to students in the Associate of Arts: Health Sciences, Mathematics, or General Science; Associate of Science: Bioinformatics, General Biology, Biology, Chemistry, Computer Science, Ecology, Health Sciences, Mathematics, Molecular/Microbiology, Physics, or General Science; Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -15890,7 +15890,7 @@
             "title": "Foundations of Health Science",
             "add_fees": "     $12.00",
             "rpt_limit": "-",
-            "notes": " **Please note: HSCI 1130 is restricted to students in the Associate of Arts: Health Sciences, Mathematics, or General Science; Associate of Science: Bioinformatics, General Biology, Biology, Chemistry, Computer Science, Ecology, Health Sciences, Mathematics, Molecular/Microbiology, Physics, or General Science; Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
+            "notes": "**Please note: HSCI 1130 is restricted to students in the Associate of Arts: Health Sciences, Mathematics, or General Science; Associate of Science: Bioinformatics, General Biology, Biology, Chemistry, Computer Science, Ecology, Health Sciences, Mathematics, Molecular/Microbiology, Physics, or General Science; Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -17295,7 +17295,7 @@
             "title": "Active Health",
             "add_fees": "     $22.65",
             "rpt_limit": "-",
-            "notes": "\r\rKINS 1103, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "KINS 1103, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -17338,7 +17338,7 @@
             "title": "Active Health",
             "add_fees": "     $22.65",
             "rpt_limit": "-",
-            "notes": "\r\rKINS 1103, section M02 will also meet for 2 hours per week as a WWW component. **Please note: KINS 1103 is restricted to students in the Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
+            "notes": "KINS 1103, section M02 will also meet for 2 hours per week as a WWW component.**Please note: KINS 1103 is restricted to students in the Diploma in Arts and Science: Applied Computer Science and Technology, Bioinformatics, General Biology, Biology, Chemistry, General Education (Science), Human Kinetics, Health Sciences (Arts), Health Sciences (Science), Kinesiology, Leisure Studies, or General Science, programs until March 29th, 2019.After March 29th, all students will be eligible to register or waitlist if all other course requirements have been met.**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -19314,7 +19314,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": "      $3.60",
             "rpt_limit": "2",
-            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -19348,7 +19348,7 @@
             "title": "Basic Algebra",
             "add_fees": "      $3.60",
             "rpt_limit": "2",
-            "notes": " **Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -19382,7 +19382,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": "      $3.60",
             "rpt_limit": "2",
-            "notes": " **Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "**Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20198,7 +20198,7 @@
             "title": "Health II: Health & Chronicity",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 1209, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 1209, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20232,7 +20232,7 @@
             "title": "Health II: Health & Chronicity",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 1209, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 1209, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20334,7 +20334,7 @@
             "title": "Nrsng Knldg I: Older Adults",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 1261, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 1261, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20377,7 +20377,7 @@
             "title": "Nrsng Knldg I: Older Adults",
             "add_fees": "     $43.45",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 1261, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 1261, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20470,7 +20470,7 @@
             "title": "Healing I: Adult Health & Heal",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2109, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2109, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20513,7 +20513,7 @@
             "title": "Healing I: Adult Health & Heal",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2109, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2109, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20624,7 +20624,7 @@
             "title": "Nurs Knowlge II: Nur Care Adul",
             "add_fees": "     $42.60",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2161, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2161, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20667,7 +20667,7 @@
             "title": "Nurs Knowlge II: Nur Care Adul",
             "add_fees": "     $42.60",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2161, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2161, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20760,7 +20760,7 @@
             "title": "Prf Grwth II: Nrs Advct & Educ",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2221, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2221, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20803,7 +20803,7 @@
             "title": "Prf Grwth II: Nrs Advct & Educ",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 2221, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 2221, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20846,7 +20846,7 @@
             "title": "Self & Others II: Reltal Prac",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3130, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3130, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20889,7 +20889,7 @@
             "title": "Self & Others II: Reltal Prac",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3130, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 3130, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21000,7 +21000,7 @@
             "title": "Nrsng Knldg IV: Care of Adults",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3161, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3161, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21043,7 +21043,7 @@
             "title": "Nrsng Knldg IV: Care of Adults",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3161, section M02 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3161, section M02 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21186,7 +21186,7 @@
             "title": "Health III:Family and Pop Hlth",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3209, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3209, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21220,7 +21220,7 @@
             "title": "Health III:Family and Pop Hlth",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 3209, section M02 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 3209, section M02 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21558,7 +21558,7 @@
             "title": "Prfl Grth IV: Rsrch Ev-Bsd Pra",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4122, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 4122, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21592,7 +21592,7 @@
             "title": "Prfl Grth IV: Rsrch Ev-Bsd Pra",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4122, section M02 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 4122, section M02 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21626,7 +21626,7 @@
             "title": "Nrs Knl VIII: Adv Hl Md Com Cr",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4161, section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 4161, section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21669,7 +21669,7 @@
             "title": "Nrs Knl VIII: Adv Hl Md Com Cr",
             "add_fees": "     $44.30",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4161, section M02 will also meet for 1 hour per week as a WWW component.",
+            "notes": "NURS 4161, section M02 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21762,7 +21762,7 @@
             "title": "Nrsg Prac IX: Tran to Nrsg Pra",
             "add_fees": "     $91.20",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4265, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 4265, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21805,7 +21805,7 @@
             "title": "Nrsg Prac IX: Tran to Nrsg Pra",
             "add_fees": "     $91.20",
             "rpt_limit": "-",
-            "notes": "\r\rNURS 4265, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NURS 4265, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21948,7 +21948,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21991,7 +21991,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rNUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -22034,7 +22034,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rNUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -22077,7 +22077,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\r\rNUTR 1100, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -22120,7 +22120,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M05 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M05 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -22163,7 +22163,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\rNUTR 1100, section M06 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M06 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -22274,7 +22274,7 @@
             "title": "Sports Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rNUTR 2500, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 2500, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -23660,7 +23660,7 @@
             "title": "Intro Biol, Cogn & Dev",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": " PSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
+            "notes": "PSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -23830,7 +23830,7 @@
             "title": "Intro Soc, Pers & Abnorm",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": " PSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
+            "notes": "PSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -24573,7 +24573,7 @@
             "title": "Intro to Soci: Models/Concepts",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rSOCI 1120, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "SOCI 1120, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -25740,7 +25740,7 @@
             "title": "Intro to Web Programming",
             "add_fees": "     $37.80",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4820 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4820 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26091,7 +26091,7 @@
             "title": "Project I",
             "add_fees": "     $21.60",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4880 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4880 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26125,7 +26125,7 @@
             "title": "Advanced Graphics Design",
             "add_fees": "     $54.05",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4900 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4900 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26168,7 +26168,7 @@
             "title": "3D Design & Prototyping",
             "add_fees": "    $132.65",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4905 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4905 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26254,7 +26254,7 @@
             "title": "Audio/Video Production",
             "add_fees": "     $79.55",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4915 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4915 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26288,7 +26288,7 @@
             "title": "Introduction to Databases",
             "add_fees": "     $37.80",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4920 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4920 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26331,7 +26331,7 @@
             "title": "Advanced User Experience Dsgn",
             "add_fees": "     $37.80",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4925 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4925 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26374,7 +26374,7 @@
             "title": "Objct-Orntd Dsgn & Programming",
             "add_fees": "     $54.05",
             "rpt_limit": "-",
-            "notes": "\r\rWMDD 4930 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4930 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26417,7 +26417,7 @@
             "title": "Server-Side Scripting",
             "add_fees": "     $37.80",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4935 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4935 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26460,7 +26460,7 @@
             "title": "Native Android App Development",
             "add_fees": "     $53.00",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4940 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4940 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26503,7 +26503,7 @@
             "title": "Native iOS App Development",
             "add_fees": "    $132.65",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4945 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4945 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26546,7 +26546,7 @@
             "title": "Security & Cloud & Server Admn",
             "add_fees": "     $79.55",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4950 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4950 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26614,7 +26614,7 @@
             "title": "Social Media Strategy",
             "add_fees": "     $37.10",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4965 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4965 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26691,7 +26691,7 @@
             "title": "Capstone Project",
             "add_fees": "    $111.35",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4985 section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "WMDD 4985 section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26725,7 +26725,7 @@
             "title": "Industry Topics I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4990 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4990 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26759,7 +26759,7 @@
             "title": "Directed Studies",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4992 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4992 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26793,7 +26793,7 @@
             "title": "Industry Topics II",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rWMDD 4995 section M01 will also meet for 1 hour per week as a WWW component.",
+            "notes": "WMDD 4995 section M01 will also meet for 1 hour per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",

@@ -6935,7 +6935,7 @@
             "title": "Lecture Series",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rFor further information about CNST 1105 please contact Coordinator, Frank Williams @ 604-323-5378 or email fwilliams@langara.bc.ca",
+            "notes": "For further information about CNST 1105 please contact Coordinator, Frank Williams @ 604-323-5378 or email fwilliams@langara.bc.ca",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8757,7 +8757,7 @@
             "title": "Lecture Series",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rFor further information about CLST 1105 please contact Coordinator, Jennifer Knapp @ 604-323-5841 (Office B247c) or email jknapp@langara.bc.ca.",
+            "notes": "For further information about CLST 1105 please contact Coordinator, Jennifer Knapp @ 604-323-5841 (Office B247c) or email jknapp@langara.bc.ca.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16867,7 +16867,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rStudents planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students with 80% or above in BC English 12 or BC Literature 12 do not need to write the LET/LPI.",
+            "notes": "Students planning to enrol in a first-semester English course must take the Langara English Test (LET) or Language Proficiency Index Test (LPI) prior to the semester in which they want to register.  Students with 80% or above in BC English 12 or BC Literature 12 do not need to write the LET/LPI.",
             "schedule": [
                 {
                     "type": "WWW",
@@ -17139,7 +17139,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "WWW",
@@ -17411,7 +17411,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $14.30",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
+            "notes": "Students will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -20131,7 +20131,7 @@
             "title": "Food Service Systems",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " Registration in FSRV 1113 is by invitation only from Department Chair.",
+            "notes": "Registration in FSRV 1113 is by invitation only from Department Chair.",
             "schedule": [
                 {
                     "type": "Flexible Assessment",
@@ -26576,7 +26576,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.\r **PLEASE NOTE MATH 1100 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.**PLEASE NOTE MATH 1100 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26610,7 +26610,7 @@
             "title": "Basic Algebra",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r **PLEASE NOTE MATH 1101 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.**PLEASE NOTE MATH 1101 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26678,7 +26678,7 @@
             "title": "Mathematics of Finance",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\r\rCollege credit will be given for only one of the following courses: MATH 1118 or 1119.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1118 or 1119.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26780,7 +26780,7 @@
             "title": "Mathematics of Business Affair",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1118 or 1119.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1118 or 1119.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26916,7 +26916,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r **PLEASE NOTE MATH 1150 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.**PLEASE NOTE MATH 1150 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27129,7 +27129,7 @@
             "title": "Intro to Calculus I Part 1",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\r\rCollege credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27503,7 +27503,7 @@
             "title": "Calculus I",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27571,7 +27571,7 @@
             "title": "Calculus I With Computer Expl",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27775,7 +27775,7 @@
             "title": "Calculus I-Econ & Bus Applica",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27868,7 +27868,7 @@
             "title": "Intro to Calculus I Part 2",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -28004,7 +28004,7 @@
             "title": "Calculus II",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -28106,7 +28106,7 @@
             "title": "Linear Algebra",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 2362 or MATH 1252.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 2362 or MATH 1252.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -30620,7 +30620,7 @@
             "title": "Peace & Conflict in Mod Wrld",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rStudents must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
+            "notes": "Students must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -30645,7 +30645,7 @@
             "title": "Peace & Conflict in Mod Wrld",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rStudents must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
+            "notes": "Students must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35192,7 +35192,7 @@
             "title": "Intro-Social Welfare in Canada",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rSSRV 2000 is open to all students except those in the Social Service Worker Program.",
+            "notes": "SSRV 2000 is open to all students except those in the Social Service Worker Program.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -36398,7 +36398,7 @@
             "title": "Basic Prob & Stats - Business",
             "add_fees": "      $3.45",
             "rpt_limit": "2",
-            "notes": "\r\rCollege credit will be given for only one of the following courses: STAT 1123, STAT 1124 or STAT 1181.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: STAT 1123, STAT 1124 or STAT 1181.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -37374,7 +37374,7 @@
             "title": "Acting III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTHEA 2110, section 001 will have 2 hours of lab time to be determined by Department Chair.",
+            "notes": "THEA 2110, section 001 will have 2 hours of lab time to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -37435,7 +37435,7 @@
             "title": "Movement III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTHEA 2120, section 001 will have 2 hours of lab time to be determined by Department Chair.",
+            "notes": "THEA 2120, section 001 will have 2 hours of lab time to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -37478,7 +37478,7 @@
             "title": "Voice III",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rTHEA 2130, section 001 will have 2 hours of lab time to be determined by Department Chair.",
+            "notes": "THEA 2130, section 001 will have 2 hours of lab time to be determined by Department Chair.",
             "schedule": [
                 {
                     "type": "Lecture",

@@ -958,7 +958,7 @@
             "title": "Introduction to Engineering I",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rAPSC 1000 will be  scheduled on various dates & times throughout the term.",
+            "notes": "APSC 1000 will be  scheduled on various dates & times throughout the term.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10748,7 +10748,7 @@
             "title": "Web Development I",
             "add_fees": "     $30.30",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1030, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -11608,7 +11608,7 @@
             "title": "Intro to Computer Science",
             "add_fees": "     $30.30",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1050, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1050, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -12710,7 +12710,7 @@
             "title": "Networking",
             "add_fees": "     $54.80",
             "rpt_limit": "2",
-            "notes": "\rCPSC 1480, section M04 will also meet for 2 hours per week as a WWW component.",
+            "notes": "CPSC 1480, section M04 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -15948,7 +15948,7 @@
             "title": "ACCESS Langara I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1106 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1106 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16322,7 +16322,7 @@
             "title": "Language & Composition I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1107 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1107 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16424,7 +16424,7 @@
             "title": "Language & Composition II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "ENGL 1108, section M01 will also meet for 2 hours per weeks as a WWW component. **PLEASE NOTE ENGL 1108 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "ENGL 1108, section M01 will also meet for 2 hours per weeks as a WWW component.**PLEASE NOTE ENGL 1108 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16467,7 +16467,7 @@
             "title": "Writing & Grammar Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1110 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1110 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16501,7 +16501,7 @@
             "title": "ACCESS Langara II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1120 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1120 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16660,7 +16660,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1121 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1121 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32515,7 +32515,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rNUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32558,7 +32558,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rNUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32601,7 +32601,7 @@
             "title": "Introduction to Nutrition",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rNUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
+            "notes": "NUTR 1100, section M03 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32848,7 +32848,7 @@
             "title": "Peace & Conflict in Mod Wrld",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rStudents must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
+            "notes": "Students must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32873,7 +32873,7 @@
             "title": "Peace & Conflict in Mod Wrld",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\r\rStudents must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
+            "notes": "Students must register in POLI 1145: POLI 1145 is the same course as PCCN 1201",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -36107,7 +36107,7 @@
             "title": "Intro Biol, Cogn & Dev",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rPSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
+            "notes": "PSYC 1215 can be taken prior to PSYC 1115 or vice versa or they can be taken concurrently.",
             "schedule": [
                 {
                     "type": "WWW",
@@ -36925,7 +36925,7 @@
             "title": "Writing for Publication",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rPUBL 1115, section M01 will also meet for 2 hours per week as a WWW component.",
+            "notes": "PUBL 1115, section M01 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",

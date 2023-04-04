@@ -8483,7 +8483,7 @@
             "title": "Emplmnt Strtgs Crrnt Lbr Mrkt",
             "add_fees": "     $51.65",
             "rpt_limit": "-",
-            "notes": "\rCOOP 2300, M01 will also meet for 1 hr as a WWW component weekly.COOP 2300, M01 requires participation in seminars in addition to regular classroom hours.",
+            "notes": "COOP 2300, M01 will also meet for 1 hr as a WWW component weekly.COOP 2300, M01 requires participation in seminars in addition to regular classroom hours.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8517,7 +8517,7 @@
             "title": "Emplmnt Strtgs Crrnt Lbr Mrkt",
             "add_fees": "     $51.65",
             "rpt_limit": "-",
-            "notes": "\rCOOP 2300, M02 will also meet for 1 hr as a WWW component weekly.COOP 2300, M02 requires participation in seminars in addition to regular classroom hours.",
+            "notes": "COOP 2300, M02 will also meet for 1 hr as a WWW component weekly.COOP 2300, M02 requires participation in seminars in addition to regular classroom hours.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -8935,7 +8935,7 @@
             "title": "Career Goals, Resumes & Cover",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rCOOP 4801, M05 will also meet for 1 hr per as a WWW component weekly.COOP 4801, M05 requires participation in seminars in addition to regular classroom hours.",
+            "notes": "COOP 4801, M05 will also meet for 1 hr per as a WWW component weekly.COOP 4801, M05 requires participation in seminars in addition to regular classroom hours.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -14225,7 +14225,7 @@
             "title": "Readng & Wrtng about Lit.",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\r\r\rNOTE: ENGL 1100 fulfills the new writing requirement in the Faculty of Arts at UBC.  Students not entering UBC's Faculty of Arts should take ENGL 1127 or ENGL 1128 instead of ENGL 1100.",
+            "notes": "NOTE: ENGL 1100 fulfills the new writing requirement in the Faculty of Arts at UBC.  Students not entering UBC's Faculty of Arts should take ENGL 1127 or ENGL 1128 instead of ENGL 1100.",
             "schedule": [
                 {
                     "type": "WWW",
@@ -14259,7 +14259,7 @@
             "title": "ACCESS Langara I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1106 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1106 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -14778,7 +14778,7 @@
             "title": "ACCESS Langara II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": " **PLEASE NOTE ENGL 1120 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "**PLEASE NOTE ENGL 1120 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16723,7 +16723,7 @@
             "title": "Modern Novel, Poetry & Drama",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
+            "notes": "Students will receive credit for either ENGL 1129 or ENGL 1130 but not both.",
             "schedule": [
                 {
                     "type": "WWW",
@@ -16995,7 +16995,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $14.05",
             "rpt_limit": "2",
-            "notes": "\r\r\r\rStudents will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
+            "notes": "Students will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26573,7 +26573,7 @@
             "title": "Mathematics of Finance",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "MATH 1118, section M01 will meet for 2 hours per week as a WWW component.\rCollege credit will be given for only one of the following courses: MATH 1118 or 1119.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "MATH 1118, section M01 will meet for 2 hours per week as a WWW component.College credit will be given for only one of the following courses: MATH 1118 or 1119.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26650,7 +26650,7 @@
             "title": "Mathematics of Business Affair",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 1118 or 1119.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1118 or 1119.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26718,7 +26718,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.\r **PLEASE NOTE MATH 1150 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.**PLEASE NOTE MATH 1150 DOES NOT COUNT TOWARDS STUDENT LOAN ELIGIBILITY.  FOR MORE INFORMATION, PLEASE SEE THE FINANCIAL AID OFFICE**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26854,7 +26854,7 @@
             "title": "Precalculus Algebra",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26888,7 +26888,7 @@
             "title": "Intro to Calculus I Part 1",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -26990,7 +26990,7 @@
             "title": "Precalculus Mathematics",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27221,7 +27221,7 @@
             "title": "Calculus I",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27264,7 +27264,7 @@
             "title": "Calculus I With Computer Expl",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27434,7 +27434,7 @@
             "title": "Calculus I-Econ & Bus Applica",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27468,7 +27468,7 @@
             "title": "Computer Expl for Calculus I",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27493,7 +27493,7 @@
             "title": "Fndmtl Cncpts & Prctcs of Math",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27570,7 +27570,7 @@
             "title": "Intro to Calculus I Part 2",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27749,7 +27749,7 @@
             "title": "Calculus II",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "College credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27817,7 +27817,7 @@
             "title": "Calculus II With Computer Expl",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\r\rCollege credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27851,7 +27851,7 @@
             "title": "Calculus II-Econ & Bus Applica",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "College credit will be given for only one of the following courses: MATH 1271, MATH 1273 or MATH 1274.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27885,7 +27885,7 @@
             "title": "Computer Expl for Calculus II",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27910,7 +27910,7 @@
             "title": "Quantitative Methods in Bus",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27944,7 +27944,7 @@
             "title": "Linear Algebra",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rCollege credit will be given for only one of the following courses: MATH 2362 or MATH 1252.The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "College credit will be given for only one of the following courses: MATH 2362 or MATH 1252.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -27978,7 +27978,7 @@
             "title": "Calculus III",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -28012,7 +28012,7 @@
             "title": "Linear Algebra Laboratory",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.\r ",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -28037,7 +28037,7 @@
             "title": "Differential Equations",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -32213,7 +32213,7 @@
             "title": "Photographic Explorations",
             "add_fees": "    $105.45",
             "rpt_limit": "2",
-            "notes": "\rNOTE: 4 hours of lab per week will be assigned by the instructor.",
+            "notes": "NOTE: 4 hours of lab per week will be assigned by the instructor.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -36156,7 +36156,7 @@
             "title": "Using Excel in First-Term Stat",
             "add_fees": "      $3.40",
             "rpt_limit": "2",
-            "notes": "\rThe last day to register in MATH and STAT courses is the last day of the first week of classes.",
+            "notes": "The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "WWW",

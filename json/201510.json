@@ -1436,7 +1436,7 @@
             "title": "Intro to Stars and Galaxies",
             "add_fees": "     $20.65",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ASTR 1102 or ASTR 3311 and not both courses.",
+            "notes": "Students will receive credit for either ASTR 1102 or ASTR 3311 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1488,7 +1488,7 @@
             "title": "Expl Unvrs II: Stars &Galaxies",
             "add_fees": "     $20.65",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ASTR 3311 or ASTR 1102 and not both courses.",
+            "notes": "Students will receive credit for either ASTR 3311 or ASTR 1102 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -14213,7 +14213,7 @@
             "title": "Modern Novel, Poetry & Film",
             "add_fees": "     $13.75",
             "rpt_limit": "2",
-            "notes": "\rStudents will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
+            "notes": "Students will receive credit for either ENGL 1130 or ENGL 1129 but not both.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -14721,7 +14721,7 @@
             "title": "Field School",
             "add_fees": "    $270.60",
             "rpt_limit": "-",
-            "notes": "\rENVS 2470 includes a mandatory field trip off campus in April with an additional fee of $270.60.",
+            "notes": "ENVS 2470 includes a mandatory field trip off campus in April with an additional fee of $270.60.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21518,7 +21518,7 @@
             "title": "Lecture Series",
             "add_fees": " ",
             "rpt_limit": "-",
-            "notes": "\rFor further information go to www.langara.bc.ca/liberal-arts/latin-american/index or contact jsmith@langara.bc.ca.",
+            "notes": "For further information go to www.langara.bc.ca/liberal-arts/latin-american/index or contact jsmith@langara.bc.ca.",
             "schedule": [
                 {
                     "type": "Lecture",

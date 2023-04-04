@@ -1878,7 +1878,7 @@
             "title": "The Science and Art of Biology",
             "add_fees": " ",
             "rpt_limit": "2",
-            "notes": "***NEW COURSE*** \rBIOL 1100 is an entirely online introductory biology course that allows non-science students to earn first-year, lab-science credit.  Course topics include an introduction to the scientific method and critical thought, biological molecules and nutrition, cells, tissues, organ systems, genetics, ecology, and evolution.  Students have the opportunity to carry out their own investigations into issues related to genetics, human health, and biodiversity.",
+            "notes": "***NEW COURSE*** \nBIOL 1100 is an entirely online introductory biology course that allows non-science students to earn first-year, lab-science credit.  Course topics include an introduction to the scientific method and critical thought, biological molecules and nutrition, cells, tissues, organ systems, genetics, ecology, and evolution.  Students have the opportunity to carry out their own investigations into issues related to genetics, human health, and biodiversity.",
             "schedule": [
                 {
                     "type": "WWW",

@@ -2174,7 +2174,7 @@
             "title": "Organic Chem for Biological Sc",
             "add_fees": "     $37.15",
             "rpt_limit": "2",
-            "notes": "***NEW COURSE*** \rStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 2216 begin the week of May 10.",
+            "notes": "***NEW COURSE*** \nStudents who fail to attend the first scheduled LAB class of any CHEM course will not be allowed to attend subsequent lab classes, and as such will not receive credit for the course.  Labs for CHEM 2216 begin the week of May 10.",
             "schedule": [
                 {
                     "type": "Lecture",
