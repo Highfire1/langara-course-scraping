@@ -4,14 +4,14 @@ from DataExplorer import DataExplorer
 import sys
 
 
-#p = Parser(2023, 10)
-#p.loadPage()
-#p.parseAndSave()
+p = Parser(2023, 20)
+p.loadPage()
+p.parseAndSave()
 
 # warning: this will retrieve all 20 years of available course data
 # and save the source data and parsed data locally
 # this only needs to be run once.
-Parser.loadParseSaveAll()
+#Parser.loadParseSaveAll()
 
 sys.exit()
 

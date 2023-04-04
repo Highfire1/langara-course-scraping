@@ -158,10 +158,6 @@ class Parser:
 
         i = 0
         sectionNotes = None
-        
-        with open("aa.txt", "w+") as fi:
-            for item in rawdata:
-                fi.write(item +  "\n")
 
         while i < len(rawdata)-1:
             
